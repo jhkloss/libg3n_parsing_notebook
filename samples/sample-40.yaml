@@ -1,0 +1,309 @@
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- function:
+    name: test1
+    type: return
+    value: value1
+
+- function:
+    name: test2
+    type: return
+    value: value2
+
+- class:
+    name: Train
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
+
+- class:
+    name: Train2
+    metaclass: MetaModel
+    properties:
+      - property:
+          name: mass
+          type: int
+      - property:
+          name: type
+          type: str
